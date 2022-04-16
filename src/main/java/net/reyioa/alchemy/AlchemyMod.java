@@ -14,6 +14,7 @@ import net.minecraftforge.fml.event.lifecycle.InterModEnqueueEvent;
 import net.minecraftforge.fml.event.lifecycle.InterModProcessEvent;
 import net.minecraftforge.event.server.ServerStartingEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.reyioa.alchemy.block.ModBlocks;
 import net.reyioa.alchemy.item.ModItems;
 import org.slf4j.Logger;
 
@@ -35,6 +36,7 @@ public class AlchemyMod
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
 

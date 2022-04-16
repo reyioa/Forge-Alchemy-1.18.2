@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "" : { "model" : "alchemy:block/fire_gold_block"}
+  }
+}

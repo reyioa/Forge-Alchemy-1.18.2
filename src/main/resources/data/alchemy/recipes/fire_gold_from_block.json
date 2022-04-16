@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "alchemy:fire_gold_block"
+    }
+  ],
+  "result": {
+    "item": "alchemy:fire_gold",
+    "count": 9
+  }
+}

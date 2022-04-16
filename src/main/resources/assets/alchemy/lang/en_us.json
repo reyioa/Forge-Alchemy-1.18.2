@@ -1,6 +1,14 @@
 {
   "item.alchemy.fire_gold" : "Fire Gold Ingot",
   "item.alchemy.alchemite_ingot" : "Alchemite Ingot",
-  "item.alchemy.frozen_aquamarine" : "Frozen Aquamarine"
+  "item.alchemy.frozen_aquamarine" : "Frozen Aquamarine",
+  "item.alchemy.burnt_gold" : "Burnt Gold",
+  "item.alchemy.raw_alchemite" : "Raw Alchemite",
 
+
+  "block.alchemy.fire_gold_block" : "Fire Gold Block",
+  "block.alchemy.deepslate_alchemite_ore" : "Deepslate Alchemite Ore",
+
+
+  "itemGroup.alchemytab" : "Alchemical Brewing"
 }
