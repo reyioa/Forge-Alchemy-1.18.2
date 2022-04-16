@@ -28,6 +28,8 @@ public class ModItems {
     public static final RegistryObject<Item> RAW_ALCHEMITE  = ITEMS.register("raw_alchemite",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.ALCHEMY_TAB)));
 
+    public static final RegistryObject<Item> FIERY_GOLDEN_PEPPER = ITEMS.register("fiery_golden_pepper",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.ALCHEMY_TAB).food(ModFoods.FIERY_GOLDEN_PEPPER)));
 
 
     public static void register(IEventBus eventBus) {

@@ -1,0 +1,6 @@
+{
+  "parent" : "item/generated",
+  "textures" : {
+    "layer0" : "alchemy:item/fiery_golden_pepper"
+  }
+}
