@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "alchemy:deepslate_alchemite_ore",
+    "alchemy:fire_gold_block",
+    "alchemy:netherrack_fire_gold_ore"
+  ]
+}

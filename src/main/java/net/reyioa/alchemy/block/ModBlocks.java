@@ -26,8 +26,10 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.ALCHEMY_TAB);
 
     public static final RegistryObject<Block> DEEPSLATE_ALCHEMITE_ORE = registerBlock("deepslate_alchemite_ore",
-            () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.ALCHEMY_TAB);
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(9f).requiresCorrectToolForDrops()), ModCreativeModeTab.ALCHEMY_TAB);
 
+    public static final RegistryObject<Block> Netherrack_Fire_Gold_Ore = registerBlock("netherrack_fire_gold_ore",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(13f).requiresCorrectToolForDrops()), ModCreativeModeTab.ALCHEMY_TAB);
 
 
 

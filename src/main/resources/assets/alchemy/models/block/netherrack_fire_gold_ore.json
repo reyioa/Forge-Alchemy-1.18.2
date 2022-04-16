@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures" : {
+    "all" : "alchemy:block/netherrack_fire_gold_ore"
+
+  }
+}

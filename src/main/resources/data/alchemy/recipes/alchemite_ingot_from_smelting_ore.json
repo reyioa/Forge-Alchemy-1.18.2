@@ -1,9 +1,9 @@
 {
   "type": "minecraft:smelting",
   "ingredient": {
-    "item": "alchemy:deepslate_alchemite_ore"
+    "item": "alchemy:raw_alchemite"
   },
   "result": "alchemy:alchemite_ingot",
   "experience": 1,
-  "cookingtime": 400
+  "cookingtime": 600
 }

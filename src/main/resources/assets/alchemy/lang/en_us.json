@@ -8,7 +8,7 @@
 
   "block.alchemy.fire_gold_block" : "Fire Gold Block",
   "block.alchemy.deepslate_alchemite_ore" : "Deepslate Alchemite Ore",
-
+  "block.alchemy.netherrack_fire_gold_ore" : "Netherrack Fire Gold Ore",
 
   "itemGroup.alchemytab" : "Alchemical Brewing"
 }

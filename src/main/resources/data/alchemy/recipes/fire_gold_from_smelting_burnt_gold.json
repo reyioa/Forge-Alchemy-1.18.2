@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "alchemy:burnt_gold"
+  },
+  "result": "alchemy:fire_gold",
+  "experience": 1,
+  "cookingtime": 600
+}
